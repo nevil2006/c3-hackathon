@@ -1,0 +1,94 @@
+File Name: 38552157.png
+
+Personal Information (Mask with Highest Priority)
+Contact Person Details:
+
+Name: LEONARD KOHLER (appears multiple times)
+
+Phone Number: (314) 583-1357 and 314-583-1357
+
+Highly Sensitive Information
+Bank Account Details:
+
+Routing #: 121000248
+
+Account #: 4943582890
+
+SWIFT Code: WFBIUS6S
+
+Tax & Business IDs:
+
+FED TAX ID#: 94-2904864
+
+DUNS#: 08-043-1663
+
+Customer Numbers:
+
+SN#: 902722917
+
+Additional Reference Numbers: 94 RMING, 009, BM 7366416
+
+Company & Location Information
+Company Names & Addresses:
+
+Shipper: CHEMTALL INC and their address (CHEMICAL PLANT RD...)
+
+Consignee: CITY OF HERCULANEUM and their address (HIGH SCHOOL DR...)
+
+Bill To: SNF HOLDING COMPANY / CASS INFORMATION SYSTEMS INC and their address (PO BOX 67...)
+
+XPO Addresses: PO BOX 982020, N RICHLAND HILLS... and PO Box 660006, Dallas...
+
+Contact Information:
+
+Phone: 1-800-755-2728
+
+Email: ltlccg@xpo.com
+
+Financial & Shipment Details
+Invoice Number:
+
+LTL INVOICE#: 584-490071
+
+All Monetary Values:
+
+Charges: $3,234.10
+
+Discount: -$3,047.59
+
+Surcharge: $56.15
+
+Other Charges: $50.00
+
+Total Due: US $292.46
+
+Dates:
+
+Shipment Date: 03/24/2025
+
+Payment Due Date: 04/27/2025
+
+Shipment Specifics:
+
+Description of Articles: PLT RESIN COMPOUNDS 46030-0 CLASS 55
+
+Fuel Surcharge Percentage: 20.29%
+
+Weight: 1,930 LBS
+
+Rate: $167.57
+
+Total Distance: 812 MI
+
+Delivery Times: 7AM-3PM
+
+Internal and Document-Specific Codes
+All Barcodes.
+
+Machine-readable lines:
+
+584490071 0029246 4
+
+23 8 EP 3 430 S0022 I0462 D4388259002 S3 P4266540 0022 0037
+
+Internal Customer Codes: 11 SNPA, 12 SNTHOL, 6Y DRYVAN, 93 010

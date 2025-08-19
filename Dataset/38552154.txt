@@ -1,0 +1,86 @@
+File Name: 38552154.png
+
+Personal Information (Mask with Highest Priority)
+Contact Person Details (found in the "DESCRIPTION" field):
+
+Name: MICHAEL
+
+Phone Number: (256)551-4401
+
+Highly Sensitive IDs & Accounts
+Account Number: 90107856
+
+Transaction & Document IDs:
+
+Freight Bill Number: 9589665304
+
+Bill of Lading Number: 9027566
+
+P.O. Number: 3254591
+
+Company & Location Information
+Company Names & Addresses:
+
+Shipper: ENERSYS INC and their full address (2366 BERNIE AVE...)
+
+Consignee: UAB HUNTSVILLE MED CAMPUS and their full address (2000 6TH AVE SOUTH...)
+
+Bill To / Payment Due From: SCHNEIDER ELECTRIC EDI / C/O CASS INFORMATION SYSTEMS 148602 and their address (PO BOX 17626, SAINT LOUIS...)
+
+FedEx Payment & Inquiry Addresses:
+
+DEPT CH PO BOX 10306 PALATINE IL 60055-0306
+
+2200 Forward DR Harrison AR 72602-0840
+
+Contact Information:
+
+Email: customerexperience@fedex.com
+
+Phone: 870 741 9070
+
+Fax: 870 391-5523
+
+Toll-Free: 866 393 4585
+
+Financial & Shipment Details
+All Monetary Values:
+
+Total Amount Due: $658.82
+
+Total Charges in table: $1,272.50, $6.23, $161.31, $8.07, $17.47
+
+Discount: -$821.57
+
+Dates:
+
+Ship Date / Invoice Date: 03/21/2025 / 04/08/2025
+
+Payment Due Date: 05/08/2025
+
+Shipment Specifics: This is commercially sensitive data.
+
+Entire Description Block: This includes codes (638422B), descriptions (NON-SPILLABLE OR DRY PARTS), appointment times, fuel surcharges, etc.
+
+Weight (WT,LBS): 1,775, 225, 2,000
+
+NMFC Code: 060680-02
+
+Class: 065
+
+Rate: 71.690, 5.73
+
+Rate Tariff Code: 486770449-100-35
+
+Payment & Service Terms: PREPAID
+
+Internal and Document-Specific Codes
+Barcode on the right side of the remittance advice.
+
+Machine-readable lines at the very bottom:
+
+9589665304 000000065882 04082025 5
+
+1097-03-00-0001022-0016-0030014
+
+Origin / Destination Codes: MRL / DCU
