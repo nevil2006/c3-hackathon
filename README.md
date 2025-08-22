@@ -35,14 +35,3 @@ This repository is a Python-based project created for the C3 Hackathon. As a pub
 
 Feel free to fork the repository, open issues, and submit pull requests. All contributions are welcome!
 
-## License
-
-*No license specified yet.*
-
-## Contact
-
-For questions or collaboration, reach out to [nevil2006](https://github.com/nevil2006).
-
----
-
-*This README is a starting template. Please update it with specific details about your project features, requirements, and usage instructions as development progresses.*
