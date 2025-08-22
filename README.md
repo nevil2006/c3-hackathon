@@ -3,7 +3,7 @@
 An AI-powered project developed for the **C3 Hackathon**.  
 This repository combines **OCR (Optical Character Recognition)**, **sensitive data masking**, and **deep learning models** to process and secure text from images.  
 
----
+
 
 ##  Repository Structure  
 
@@ -31,7 +31,7 @@ This repository combines **OCR (Optical Character Recognition)**, **sensitive da
 
 
 
----
+
 
 ## \ Features  
 
@@ -45,7 +45,7 @@ This repository combines **OCR (Optical Character Recognition)**, **sensitive da
 
 ##  Installation  
 
-```
+
 # Clone the repository
 ```git clone https://github.com/nevil2006/c3-hackathon.git```
 
