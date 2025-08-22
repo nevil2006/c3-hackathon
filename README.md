@@ -6,25 +6,24 @@
 <u> Repository Structure</u>
 c3-hackathon/
 │
-├── Dataset/                      # Raw dataset used for training
-├── augmented_images/             # Data after augmentation
-├── runs/detect/                  # YOLO or model detection output
+├── Dataset/ # Raw dataset used for training
+├── augmented_images/ # Data after augmentation
+├── runs/detect/ # YOLO or model detection output
 │
-├── SAMPLE.PY                     # Sample script to test pipeline
-├── TEST.PY                       # Testing script
-├── mask.py                       # Script to mask sensitive information
-├── mask_sensitive_with_spacy.py  # Masking with NLP (spaCy)
-├── ocr.py                        # OCR pipeline to extract text from images
-├── r.py / r1.py                  # Additional helper/test scripts
+├── SAMPLE.PY # Sample script to test pipeline
+├── TEST.PY # Testing script
+├── mask.py # Script to mask sensitive information
+├── mask_sensitive_with_spacy.py # Masking with NLP (spaCy)
+├── ocr.py # OCR pipeline to extract text from images
+├── r.py / r1.py # Additional helper/test scripts
 │
-├── best (9).pt                   # Trained PyTorch model
-├── 38551989.png                  # Example input image
-├── masked.png                    # Example masked output
+├── best (9).pt # Trained PyTorch model
+├── 38551989.png # Example input image
+├── masked.png # Example masked output
 ├── masked_mixed.png
 ├── masked_regex.png
 │
-├── ocr_output.csv                # OCR results stored as CSV
-
+├── ocr_output.csv # OCR results stored as CSV
 <u> Features</u>
 
  OCR Processing – Extract text from input images.
