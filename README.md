@@ -85,7 +85,7 @@ masked_mixed.png
 
 masked_regex.png
 
-<u>📚 Tech Stack</u>
+<u>Tech Stack</u>
 
 Python 3.x
 
