@@ -1,7 +1,7 @@
-C3 Hackathon 
+**C3 Hackathon** 
 
-An AI-powered project developed for the C3 Hackathon.
-This repository combines OCR (Optical Character Recognition), sensitive data masking, and deep learning models to process and secure text from images.
+**An AI-powered project developed for the C3 Hackathon.**
+**This repository combines OCR (Optical Character Recognition), sensitive data masking, and deep learning models to process and secure text from images.**
 
 <u> Repository Structure</u>
 c3-hackathon/
