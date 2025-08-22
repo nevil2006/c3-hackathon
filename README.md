@@ -3,7 +3,7 @@
 **An AI-powered project developed for the C3 Hackathon.**
 **This repository combines OCR (Optical Character Recognition), sensitive data masking, and deep learning models to process and secure text from images.**
 
-<u> Repository Structure</u>
+```<u> Repository Structure</u>
 c3-hackathon/
 │
 ├── Dataset/ # Raw dataset used for training
@@ -24,7 +24,7 @@ c3-hackathon/
 ├── masked_regex.png
 │
 ├── ocr_output.csv # OCR results stored as CSV
-<u> Features</u>
+<u> Features</u>```
 
  OCR Processing – Extract text from input images.
 
