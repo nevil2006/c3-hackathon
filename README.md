@@ -1,101 +1,48 @@
-# **C3 Hackathon** 
-
-An AI-powered project developed for the **C3 Hackathon**.  
-This repository combines **OCR (Optical Character Recognition)**, **sensitive data masking**, and **deep learning models** to process and secure text from images.  
+# c3-hackathon
 
 
+## Overview
 
-##  Repository Structure  
+This repository is a Python-based project created for the C3 Hackathon. As a public repository, it is open for contributions, learning, and collaboration around hackathon-themed development.
 
-```c3-hackathon/
-│
-├── Dataset/ # Raw dataset used for training
-├── augmented_images/ # Data after augmentation
-├── runs/detect/ # YOLO or model detection output
-│
-├── SAMPLE.PY # Sample script to test pipeline
-├── TEST.PY # Testing script
-├── mask.py # Script to mask sensitive information
-├── mask_sensitive_with_spacy.py # Masking with NLP (spaCy)
-├── ocr.py # OCR pipeline to extract text from images
-├── r.py / r1.py # Additional helper/test scripts
-│
-├── best (9).pt # Trained PyTorch model
-├── 38551989.png # Example input image
-├── masked.png # Example masked output
-├── masked_mixed.png
-├── masked_regex.png
-│
-├── ocr_output.csv # OCR results stored as CSV``
+## Features
 
+- Built with Python as the primary language.
+- Structured for hackathon participation, rapid prototyping, and collaboration.
+- Supports issues and project management via GitHub.
+- Includes downloads and a wiki for documentation and resources.
+- Open to forking and contributions from the community.
 
+## Getting Started
 
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/nevil2006/c3-hackathon.git
+   ```
 
+2. **Navigate into the project directory**
+   ```bash
+   cd c3-hackathon
+   ```
 
+3. **Install dependencies**
+   (Add instructions here if a requirements file or setup process exists.)
 
-## \ Features  
+4. **Run the project**
+   (Add instructions here for running the main script or application.)
 
--  **OCR Processing** – Extract text from input images  
--  **Sensitive Data Masking** – Hide personal/sensitive data using **regex** and **NLP (spaCy)**  
--  **Deep Learning Model** – Pretrained **PyTorch model** (`best (9).pt`) included  
--  **CSV Export** – Save extracted text and results to `.csv`  
--  **Sample & Test Scripts** – Quick start with `SAMPLE.PY` and `TEST.PY`  
+## Contributing
+
+Feel free to fork the repository, open issues, and submit pull requests. All contributions are welcome!
+
+## License
+
+*No license specified yet.*
+
+## Contact
+
+For questions or collaboration, reach out to [nevil2006](https://github.com/nevil2006).
 
 ---
 
-##  Installation  
-
-
-# Clone the repository
-```git clone https://github.com/nevil2006/c3-hackathon.git```
-
-```cd c3-hackathon```
-
-# Create a virtual environment (optional but recommended)
-```python -m venv venv```
-
-```source venv/bin/activate   # On Linux/Mac
-   venv\Scripts\activate      # On Windows```
-
-# Install dependencies
-``pip install -r requirements.txt``
-
-
-** Example Outputs**
-Input Image → 38551989.png
-
-OCR Result → ocr_output.csv
-
-Masked Outputs →
-
-masked.png
-
-masked_mixed.png
-
-masked_regex.png
-
-**Tech Stack**
-
---Python 3.x
-
----PyTorch – Model training & inference
-
-----OpenCV – Image preprocessing
-
----Tesseract OCR – Text extraction
-
----spaCy – NLP-based masking
-
----Regex – Rule-based sensitive info filtering
-
- Contributors
---Nevil J – AI & Data Science Student
-
---R.S. Hariharan – AI & Data Science Student
-
---Ajay – AI & Data Science Student
-
---Abinav Prakash – AI & Data Science Student
-
---Gunal P – AI & Data Science Student
-
+*This README is a starting template. Please update it with specific details about your project features, requirements, and usage instructions as development progresses.*
